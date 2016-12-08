@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAKA;EACI,aAHa;EAIb,uBALU;CAMb","file":"app.css","sourcesContent":["//@import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n$primary: grey;\n$secondary: black;\n\nbody {\n    color: $secondary;\n    background-color: $primary;\n}\n"]}
